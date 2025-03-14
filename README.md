@@ -1,0 +1,2 @@
+# ProteinSecondaryStructurePrediction_NLPAndDeepLearning
+This research explores NLP techniques with deep learning for eight-state protein secondary structure prediction. Word2Vec, GloVe, and ESM embeddings are compared for capturing protein features. LSTM and BiLSTM with attention improve accuracy but face class imbalance issues. Findings highlight the need for PSSM and resampling to enhance predictions.
